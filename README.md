@@ -1,6 +1,6 @@
-# {{PROJECT_NAME}}
+# sw3z
 
-{{PROJECT_DESCRIPTION}}
+
 
 ## Contributing
 

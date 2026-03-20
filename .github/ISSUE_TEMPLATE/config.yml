@@ -2,7 +2,7 @@ blank_issues_enabled: false
 
 contact_links:
   - name: GitHub Issues
-    url: "{{REPO_URL}}/issues"
+    url: "https://github.com/eser/sw3z/issues"
     about: Ask questions and discuss ideas
 #   - name: Discord
 #     url: "{{DISCORD_URL}}"
