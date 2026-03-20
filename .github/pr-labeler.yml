@@ -1,0 +1,14 @@
+# Labeler configuration for actions/labeler
+# Add path patterns to auto-label PRs
+
+documentation:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "*.md"
+          - "docs/**"
+
+# Add more rules based on your project structure:
+# example:
+#   - changed-files:
+#       - any-glob-to-any-file:
+#           - "src/**"

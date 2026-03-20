@@ -1,0 +1,28 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor metadata
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+.idea/*
+
+# sensitive files
+*.key
+*.pem
+*.swp
+
+# binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# local API keys and secrets
+.env.local
+.env.*.local
